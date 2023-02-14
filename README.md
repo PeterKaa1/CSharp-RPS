@@ -20,9 +20,10 @@ V1.0.3 - 13.02.2023 (Patch version - Latest)
 Download: https://www.mediafire.com/file/gmcfe0yrmg2sgdq/1.0.3.apk/file
 
 V1.1.0 [FINAL] - 14.02.2023 (Major version - latest)
-- Added hearts system, you have 3 hearts in total, if you answer one question wrong one of your hearts get consumed.\
-- Added exit option, now you can just type in "exit" to leave the game.\
-Download: https://www.mediafire.com/file/vwc96klp2gae8tb/1.1.0.apk/file\
-Game Archive: https://www.mediafire.com/folder/cbmsrkjszy2w2/Vanilla+C#+Open+Source+Rock+Paper+Scissors+Game+Archive\
+- Added hearts system, you have 3 hearts in total, if you answer one question wrong one of your hearts get consumed.
+- Added exit option, now you can just type in "exit" to leave the game.
+Download: https://www.mediafire.com/file/vwc96klp2gae8tb/1.1.0.apk/file
+\
+Game Archive: https://www.mediafire.com/folder/cbmsrkjszy2w2/Vanilla+C#+Open+Source+Rock+Paper+Scissors+Game+Archive
 
 This game is now discontinued and the 1.1.0 version is the last update, there are no more things to add at this moment and the game is already good enough.
