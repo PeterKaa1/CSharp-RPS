@@ -1,5 +1,5 @@
-# CSharp-Open-Source-Rock-Paper-Scissors-Game
-The open source game of Rock Paper Scissors made in vanilla C#.
+# CSharp-Open-Source-Rock-Paper-Scissors-Game-Discontinued
+A discontinued open source game of Rock Paper Scissors made in vanilla C#.
 
 Changelog:
 
