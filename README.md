@@ -49,5 +49,5 @@ V1.2.1 (Final) - 24.02.2023 (Patch version)
 - Added more sound effects and vibrations.\
 Download: https://drive.google.com/file/d/12Cj-mSd9M_IljrIxwrAIz2gAODOvRFz2/view?usp=drivesdk \
 Source code: https://drive.google.com/file/d/12EMRlJG9TvpHBFhsgxZ1J_ikGLN4xgBe/view?usp=drivesdk \
-This game is now discontinued and the 1.2.0 version is the last update, there are no more things to add at this moment and the game is already good enough.\
+This game is now discontinued and the 1.2.1 version is the last update, there are no more things to add at this moment and the game is already good enough.\
 Archive: https://drive.google.com/drive/folders/1-8-6_1VglHqcMjI-5TeaGGGCjYD4E6tJ
